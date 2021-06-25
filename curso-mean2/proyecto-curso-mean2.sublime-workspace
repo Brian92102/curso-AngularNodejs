@@ -1,0 +1,278 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"update",
+				"updateUser"
+			],
+			[
+				"user",
+				"userUpdated"
+			],
+			[
+				"get",
+				"gethash"
+			],
+			[
+				"err",
+				"err"
+			],
+			[
+				"lo",
+				"localhost"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"row",
+				"row"
+			],
+			[
+				"ro",
+				"row"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/wamp/www/curso-mean2/routes/user.js",
+		"/C/wamp/www/curso-mean2/middlewares/authenticated",
+		"/C/wamp/www/curso-mean2/controllers/user.js",
+		"/C/wamp/www/curso-mean2/models/user.js",
+		"/C/wamp/www/curso-mean2/app.js",
+		"/C/wamp/www/curso-mean2/services/jwt",
+		"/C/wamp/www/curso-mean2/index.js",
+		"/C/wamp/www/curso-mean2/package.json",
+		"/C/wamp/www/curso-mean2/models/song.js",
+		"/C/wamp/www/curso-mean2/models/album.js",
+		"/C/wamp/www/curso-mean2/models/artist.js",
+		"/C/Users/Usuario/Desktop/curso-mean2/package-lock.json",
+		"/C/Users/Usuario/Desktop/curso-mean2/index.js",
+		"/C/Users/Usuario/Desktop/curso-mean2/proyecto-curaso-mean.sublime-project",
+		"/C/Users/Usuario/Desktop/curso-mean2/package.json",
+		"/C/Users/Usuario/source/repos/tpfinal/ayudandoALaPandemia/ayudandoALaPandemia/Views/Shared/_NecesidadesLayout.cshtml",
+		"/C/Users/Usuario/Downloads/RESEGMENTACION (6).txt",
+		"/C/Users/Usuario/Downloads/resegmentar+070720.txt",
+		"/C/Users/Usuario/Downloads/Resegmentacion (5).txt",
+		"/C/Users/Usuario/source/repos/tpfinal/ayudandoALaPandemia/ServicioWeb/Models/NecesidadDto.cs",
+		"/C/Users/Usuario/source/repos/tpfinal/ayudandoALaPandemia/ServicioWeb/Controllers/NecesidadController.cs",
+		"/C/Users/Usuario/source/repos/tpfinal/ayudandoALaPandemia/ServicioWeb/App_Start/WebApiConfig.cs",
+		"/C/Users/Usuario/source/repos/tpfinal/ayudandoALaPandemia/ServicioWeb/Models/DonacionesDto.cs",
+		"/C/Users/Usuario/source/repos/tpfinal/ayudandoALaPandemia/ServicioWeb/Models/InsumosDto.cs",
+		"/C/Users/Usuario/source/repos/tpfinal/ayudandoALaPandemia/ServicioWeb/Models/MonetariaDto.cs",
+		"/C/Users/Usuario/source/repos/tpfinal/ayudandoALaPandemia/ServicioWeb/App_Start/RouteConfig.cs",
+		"/C/Users/Usuario/Desktop/pw3/Tp-Pw3-Empanada-master/W3_2018_2C_TP/W3_2018_2C_TP/Pedido.cs",
+		"/C/Users/Usuario/Desktop/pw3/Tp-Pw3-Empanada-master/W3_2018_2C_TP/W3_2018_2C_TP/GustoEmpanada.cs",
+		"/C/Users/Usuario/Desktop/pw3/Tp-Pw3-Empanada-master/W3_2018_2C_TP/W3_2018_2C_TP/Servicios/PedidoServicio.cs",
+		"/C/Users/Usuario/source/repos/tpfinal/ayudandoALaPandemia/Repositorios/DonacionesMonetariasRepository.cs",
+		"/C/Users/Usuario/source/repos/tpfinal/ayudandoALaPandemia/Repositorios/NecesidadesRepository.cs",
+		"/C/Users/Usuario/source/repos/tpfinal/ayudandoALaPandemia/ayudandoALaPandemia/Views/Perfil/Index.cshtml",
+		"/C/Users/Usuario/source/repos/tpfinal/ayudandoALaPandemia/Repositorios/NecesidadesDonacionesMonetarias.cs",
+		"/C/Users/Usuario/source/repos/tpfinal/ayudandoALaPandemia/Repositorios/DenunciasRepository.cs",
+		"/C/Users/Usuario/source/repos/ayudandoALaPandemia/ayudandoALaPandemia/Controllers/PerfilController.cs",
+		"/C/Users/Usuario/source/repos/ayudandoALaPandemia/ayudandoALaPandemia/Views/Perfil/Editar.cshtml",
+		"/C/Users/Usuario/source/repos/ayudandoALaPandemia/ayudandoALaPandemia/Views/Perfil/Index.cshtml",
+		"/C/Users/Usuario/Desktop/pw3/Tp-Pw3-Empanada-master/W3_2018_2C_TP/W3_2018_2C_TP/Models/Metadata/UsuarioMetadata.cs",
+		"/C/Users/Usuario/Desktop/pw3/Tp-Pw3-Empanada-master/W3_2018_2C_TP/W3_2018_2C_TP/Models/Metadata/PedidoMetadata.cs",
+		"/C/Users/Usuario/source/repos/ayudandoALaPandemia/ayudandoALaPandemia/ViewModels/UsuarioDto.cs",
+		"/C/Users/Usuario/source/repos/ayudandoALaPandemia/ayudandoALaPandemia/ViewModels/NecesidadDto.cs",
+		"/C/Users/Usuario/Desktop/pw3/Tp-Pw3-Empanada-master/W3_2018_2C_TP/W3_2018_2C_TP/Controllers/PedidosController.cs",
+		"/C/Users/Usuario/_SELECT_1097_as_CENT_ID_TCAT_CODIGO_TTRA_COD_TRAMITE_V3_as_TPRD__202007061719.txt",
+		"/C/Users/Usuario/source/repos/AutoEvaluacion-2/AutoEvaluacion-2/Views/Premios/Index.cshtml",
+		"/C/Users/Usuario/Desktop/pw3/startbootstrap-modern-business-gh-pages/404.html",
+		"/C/Users/Usuario/Desktop/tw3.txt",
+		"/C/Users/Usuario/Desktop/pw3/startbootstrap-modern-business-gh-pages/index.html",
+		"/C/Users/Usuario/Desktop/pw3/Tp-Pw3-Empanada-master/W3_2018_2C_TP/W3_2018_2C_TP/Views/Error/Error.cshtml",
+		"/C/Users/Usuario/source/repos/AutoEvaluacion-2/AutoEvaluacion-2/Views/Premios/AltaPremio.cshtml",
+		"/C/Users/Usuario/Desktop/pw3/startbootstrap-modern-business-gh-pages/Pa123456789",
+		"/C/Users/Usuario/Desktop/pw3/startbootstrap-modern-business-gh-pages/pricing.html",
+		"/C/Users/Usuario/Desktop/pw3/startbootstrap-modern-business-gh-pages/faq.html",
+		"/C/Users/Usuario/Desktop/taller-1/test/ServicioUsuarioTest.java",
+		"/C/Users/Usuario/Desktop/pw3/startbootstrap-modern-business-gh-pages/denuncia.html",
+		"/C/Users/Usuario/Desktop/taller-1/test/ControladorRegistrarmeTest.java",
+		"/C/Users/Usuario/Desktop/taller-1/test/RepositorioUsuarioTest.java",
+		"/C/Users/Usuario/source/repos/AutoEvaluacion-2/AutoEvaluacion-2/Views/Competidor/AltaCompetidor.cshtml",
+		"/C/Users/Usuario/Desktop/pw3/startbootstrap-modern-business-gh-pages/crearNecesidad.html",
+		"/C/Users/Usuario/Desktop/taller-1/test/localidades",
+		"/C/Users/Usuario/Desktop/pw3/startbootstrap-modern-business-gh-pages/detalleNecesidad.html",
+		"/C/Users/Usuario/Desktop/pw3/startbootstrap-modern-business-gh-pages/contact.html",
+		"/C/Users/Usuario/Desktop/pw3/startbootstrap-modern-business-gh-pages/login.html",
+		"/C/Users/Usuario/Desktop/pw3/startbootstrap-modern-business-gh-pages/crearDonacion.html",
+		"/C/Users/Usuario/Desktop/pw3/startbootstrap-modern-business-gh-pages/css/main.css",
+		"/C/Users/Usuario/Desktop/pw3/Login_v8/index.html",
+		"/C/Users/Usuario/Desktop/pw3/startbootstrap-modern-business-gh-pages/js/jqBootstrapValidation.js",
+		"/C/Users/Usuario/Desktop/pw3/Login_v8/css/main.css",
+		"/C/Users/Usuario/Desktop/pw3/Login_v8/css/util.css",
+		"/C/Users/Usuario/Desktop/pw3/startbootstrap-modern-business-gh-pages/js/crearDonacion.js",
+		"/C/Users/Usuario/Desktop/pw3/startbootstrap-modern-business-gh-pages/css/modern-business.css",
+		"/C/Users/Usuario/Desktop/pw3/startbootstrap-modern-business-gh-pages/css/crearDonacion.css",
+		"/C/Users/Usuario/Desktop/pw3/startbootstrap-modern-business-gh-pages/blog-home-2.html",
+		"/C/Users/Usuario/Desktop/pw3/startbootstrap-modern-business-gh-pages/blog-home-1.html",
+		"/C/Users/Usuario/Desktop/pw3/startbootstrap-modern-business-gh-pages/historialDonaciones.html",
+		"/C/Users/Usuario/Desktop/pw3/startbootstrap-modern-business-gh-pages/portfolio-item.html",
+		"/C/Users/Usuario/Desktop/pw3/startbootstrap-modern-business-gh-pages/misNecesidades.html",
+		"/C/Users/Usuario/eclipse-workspace/tp/proyecto-limpio-spring/src/main/webapp/assets/js/modal_jquery-1.11.3.js",
+		"/C/Users/Usuario/Desktop/taller-1/localidades",
+		"/C/Users/Usuario/eclipse-workspace/tp/proyecto-limpio-spring/src/main/webapp/assets/js/modal_jquery-1.11.3.min.js"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "proyecto-curso-mean2.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 190.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
